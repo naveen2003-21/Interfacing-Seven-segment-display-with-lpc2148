@@ -1,9 +1,9 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	Ragul A C
+Name: A Naveen Kumar
 
 
-Roll no 212221240042
+Roll no 212221240032
 
 
 ## Aim: 
